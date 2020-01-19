@@ -1,0 +1,22 @@
+# Project exclude paths
+/nifi-weather-nar/target/
+/nifi-weather-processors/target/
+/target/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Compiled class file
+*.class
+
+.idea
+*.iml
+
+.classpath
+.project
+.settings/
+target/
